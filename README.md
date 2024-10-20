@@ -3,6 +3,7 @@ This project uses a DVD rental sample database included in the dataset folder. T
 summarize a business report using the database and analyze the data to directly answer a business question.
 
 
+
 PROGRAMMING ENVIRONMENT:\
     OPERATING SYSTEM: Windows 11\
     PROGRAMMING LANGUAGE: SQL\
